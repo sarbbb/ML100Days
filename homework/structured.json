@@ -1,0 +1,15 @@
+{
+  "name": "oxxo",
+  "sex": "male",
+  "age": 18,
+  "phone": [
+    {
+      "type": "home",
+      "number": "07 1234567"
+    },
+    {
+      "type": "office",
+      "number": "07 7654321"
+    }
+  ]
+}
